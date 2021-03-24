@@ -1,0 +1,7 @@
+### choosing a text editor: its a tool that you use to write and edit your code, there is a text editor orignally at each computer, but it don't have many features as the ones that you can download from websitse such as notepad++, visual studio,atom,..etc.
+### the command line: we can use it to do different commands at the same time, you can use it by writing an order (prompt) and it will immediately show you the result.
+### basic navigation: pwd: tells you where are you at(your location) ls: it shows you a list at your location cd: move around the system
+### There are 2 types of paths we can use, absolute and relative.
+### Absolute paths specify a location (file or directory) in relation to the root directory.
+### Relative paths specify a location (file or directory) in relation to where we currently are in the system. 
+### about files: everything is a file! A file extension is normally a set of 2 - 4 characters after a full stop at the end. and that shows the type of the file. we must be carfull when dealing with CL is the upper and lower cases, because it mat change all the command.If we write a file name we have to be carefull about spaces too.Anything inside quotes is considered a single item. Files and directories may be hidden for a variety of reasons and we can show hidden files by ls -a command.
