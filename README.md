@@ -2,4 +2,6 @@
 
 | Assignment | link
 | --- | --- | 
-| read 1 | [read1]() |
+| read 1 | [read1](read1.md) |
+| read 2a | [read2a](read21.md) |
+| read 2b | [read2b](read2b.md) |
