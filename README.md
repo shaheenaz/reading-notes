@@ -6,3 +6,4 @@
 | read 2a | [read2a](read2a.md) |
 | read 2b | [read2b](read2b.md) |
 | read 3  | [read3](read3.md) |
+| growth mindset| [mindset](growthmindset.md) |
