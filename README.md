@@ -9,3 +9,4 @@
 | growth mindset| [mindset](growthmindset.md) |
 | read 4 | [read4](read4.md) |
 | read 5 | [read5](read5.md) |
+| read 6 | [read6](read6.md) |
