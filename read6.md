@@ -1,3 +1,4 @@
+## Commands to use colors in CSS:
 ### color: to set the color of the text inside an element
 
 ### background-color: to set a color of the text box
@@ -8,8 +9,8 @@
 
 ________________________________________
 
-contarst: text is easier to read with high contrast between text and back ground color, medium contrast improves readability of the long text, low contrast makes it hard to read.
-## colors type:
+ contarst: text is easier to read with high contrast between text and back ground color, medium contrast improves readability of the long text, low contrast makes it hard to read.</h1>
+## there is 3 ways to specify a color in CSS:
 RGB values: Values for red, green, and blue are expressed as numbers between 0 and 255.
 
 HEX codes:  represent values for red, green, and blue in hexadecimal code.
