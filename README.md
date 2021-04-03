@@ -27,6 +27,7 @@
 ## *code 201 Reading Notes*
 | Assignment |link 
 | --- | --- |
+| class-01 | [class1](class1.md) |
 | read 1 | [read1](readd1.md)| 
 | read 2| [read2](readd2.md)| 
 | read 3| [read3](readd3.md)| 
