@@ -13,7 +13,7 @@
 
 
 ## *code 102 Reading Notes*
-| Assignment | link
+| Assignment | link |
 | --- | --- | 
 | read 1 | [read1](read1.md) |
 | read 2a | [read2a](read2a.md) |
@@ -25,7 +25,7 @@
 | read 6 | [read6](read6.md) |
 
 ## *code 201 Reading Notes*
-| Assignment |link 
+| Assignment |link |
 | --- | --- |
 | class-01 | [class1](class1.md) |
 | read 1 | [read1](readd1.md)| 
