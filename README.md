@@ -5,14 +5,14 @@
 ## **levels**:
 - [x] code 101 
 - [x] code 102
-- [ ] code 201
+- [x] code 201
 - [] code 301
 - [] code 401
 
 
 
 
-## *code 102 Reading Notes*
+## *code 102 Intro to Software Development*
 
 | Assignment | link |
 | --- | --- | 
@@ -25,7 +25,7 @@
 | read 5 | [read5](read5.md) |
 | read 6 | [read6](read6.md) |
 
-## *code 201 Reading Notes*
+## *code 201 Foundations of Software Development*
 
 | Assignment |link |
 | --- | --- |
@@ -44,3 +44,13 @@
 | read 13 | [read13](readd13.md)| 
 | read 14 | [read14](readd14.md)| 
 | read 15 | [read15](readd15.md) | 
+
+
+## *code 301 Intermediate Software Development*
+| Assignment |link |
+| --- | --- |
+|read1 |[read1](reading1.md)|
+| read2 |[read2](reading2.md)    | 
+| read 3| [read3](reading3.md)    | 
+| read 4 | [read4](reading4.md)   | 
+| read 5 | [read5](reading5.md)   | 
