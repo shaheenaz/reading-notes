@@ -1,6 +1,6 @@
 # *Code 201 Reading Notes*
 
-### I'm Shaheenaz Zuwayyed from Jordan, I'm 21 years old, I'm a fresh graduate from The Hashemite University at Medical Lab sciences with excellence and honor. I'm a hard-working student, ambitious, patient, and I love to try new things. I like reading and watching series in my free time. I'd like always to get to know new people and make new friends.I'm currently studying web development and I'm very passionate about it. I've finished code 101 and 102 with Mr Bashar Alasmar and the very collaborate teacher assistants (especially Aisha), and I'm very excited for the nextt levels  . 
+### I'm Shaheenaz Zuwayyed from Jordan, I'm 21 years old, I'm a fresh graduate from The Hashemite University at Medical Lab sciences.I'm currently studying web development and I'm very passionate about it. I've finished code 101,102 and 201 and I'm very excited for the nextt levels  . 
 > Here I'm putting my notes about reading homeworks from the course, hope you find it useful.
 ## **levels**:
 - [x] code 101 
