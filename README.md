@@ -54,3 +54,8 @@
 | read 3| [read3](reading3.md)    | 
 | read 4 | [read4](reading4.md)   | 
 | read 5 | [read5](reading5.md)   | 
+
+
+
+## Things I want to know more about
+1. why did they invent props?
