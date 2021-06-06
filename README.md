@@ -59,3 +59,4 @@
 
 ## Things I want to know more about
 1. why did they invent props?
+2. examples of state and props 
