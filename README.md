@@ -54,6 +54,7 @@
 | read 3| [read3](reading3.md)    | 
 | read 4 | [read4](reading4.md)   | 
 | read 5 | [read5](reading5.md)   | 
+| read 6 | [read6](reading6.md)   | 
 
 
 
