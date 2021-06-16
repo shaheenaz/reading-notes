@@ -58,6 +58,8 @@
 | read 7 | [read7](reading7.md)   | 
 | read 8 | [read8](reading8.md)   | 
 | read 9 | [read9](reading9.md)   | 
+| read 10 | [read10](reading10.md)   | 
+
 
 
 
