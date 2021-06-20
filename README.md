@@ -60,6 +60,7 @@
 | read 9 | [read9](reading9.md)   | 
 | read 10 | [read10](reading10.md)   | 
 | read 11 | [read11](reading11.md)   | 
+| read 12 | [read12](reading12.md)   | 
 
 
 
