@@ -6,7 +6,7 @@
 - [x] code 101 
 - [x] code 102
 - [x] code 201
-- [] code 301
+- [x] code 301
 - [] code 401
 
 
@@ -62,6 +62,13 @@
 | read 11 | [read11](reading11.md)   | 
 | read 12 | [read12](reading12.md)   | 
 | read 13 | [read13](reading13.md)   |
+
+
+## *Code 401 - Advanced Software Development*
+| Assignment |link |
+| --- | --- |
+|read1 |[read1](401.md)|
+| read2 |[read2](402.md)    | 
 
 
 
